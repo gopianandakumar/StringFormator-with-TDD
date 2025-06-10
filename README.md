@@ -15,7 +15,7 @@ Setup Instructions
 To run the project locally, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/your-username/string-calculator.git
+git clone https://github.com/gopianandakumar/string-calculator.git
 cd string-calculator
 
 

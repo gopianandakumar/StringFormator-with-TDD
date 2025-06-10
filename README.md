@@ -1,6 +1,3 @@
-String Calculator - Incubyte TDD Assessment
-This repository contains a Python implementation of the String Calculator, developed using Test-Driven Development (TDD) for the Incubyte Software Craftsperson - Python(3+) role assessment. The project demonstrates a clean, incremental approach to building a robust solution, with frequent commits to show the TDD process.
-Features
 The StringCalculator class implements the Add method with the following functionality:
 
 Returns 0 for an empty string ("").
